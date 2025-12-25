@@ -11,8 +11,6 @@ Create a file named:
 
 index.html
 
-yaml
-Copy code
 
 ---
 
@@ -32,8 +30,7 @@ Set the page title to:
 
 My First Markup Language Page
 
-yaml
-Copy code
+
 
 ---
 
@@ -60,7 +57,7 @@ Create an unordered list using `<ul>` and add **3 things you like**, for example
 ### 6️⃣ Add an Image
 Add an image using the `<img>` tag.
 
-⚠️ The `alt` attribute is **required**.
+⚠️ The `alt` attribute is **Iskaga dar waa caadiye**.
 
 ---
 
@@ -69,8 +66,6 @@ Create a link that points to:
 
 https://google.com
 
-yaml
-Copy code
 
 Requirements:
 - Use the `<a>` tag
@@ -97,6 +92,7 @@ Create a simple form that includes:
 ✔ Correct document structure  
 ✔ Proper use of markup tags  
 ✔ Page opens without errors  
+✔ hadaad githubka kusoo diri kartid iigu soo dir adoo fork iisoo diraya. 
 
 ---
 
