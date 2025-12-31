@@ -164,7 +164,7 @@ Attributes are written inside the opening tag.
 
 **Summary:**  
 - `<tr>` = row  
-- `<th>` 
+- `<th>` = columns
 - `<td>` = columns
 
 
